@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1da5ff45-4f90-4cfb-aa7c-974fd8655c32" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Dakotas-AIO-WC" />
+  </component>
+  <component name="ProjectId" id="1UwuCLweEgTRoDSuE9WL6CYBKm1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lachlan\IdeaProjects\Dakota's WC\src\main\resources" />
+      <recent name="C:\Users\Lachlan\IdeaProjects\Dakota's WC\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main.java.DakotaWC" />
+      <recent name="main.java.DakotaWC.strategies" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lachlan\IdeaProjects\Dakota's WC" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.parabot.Landing" />
+      <module name="Dakotas-AIO-WC" />
+      <option name="PROGRAM_PARAMETERS" value="-login dakotabot 87Y^luuO0g3A2 -server 2006rebotted -loadlocal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1da5ff45-4f90-4cfb-aa7c-974fd8655c32" name="Default Changelist" comment="" />
+      <created>1576279849475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576279849475</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="72" y="178" key="#Project_Structure" timestamp="1576315627375">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="72" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1576315627375" />
+    <state x="0" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576292177982">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576292177982" />
+    <state x="467" y="224" key="#com.intellij.ide.util.MemberChooser" timestamp="1576327097186">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="467" y="224" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576327097186" />
+    <state x="275" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1576292134931">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="275" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576292134931" />
+    <state x="740" y="237" key="FileChooserDialogImpl" timestamp="1576371885396">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="237" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576371885396" />
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1576330890413">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576330890413" />
+    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1576330890413">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576330890413" />
+    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1576330890413">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576330890413" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1576330890413">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576330890413" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1576667916108">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576667916108" />
+    <state x="661" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1576403986634">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576403986634" />
+  </component>
+</project>
